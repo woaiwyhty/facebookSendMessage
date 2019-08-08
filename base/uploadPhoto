@@ -1,0 +1,89 @@
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="published"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+false
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="place"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+{placeID}
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="is_explicit_location"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+false
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="privacy"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+{"value":"EVERYONE"}
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="audience_exp"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+true
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="time_since_original_post"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+0
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="qn"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+{sessionID}
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="composer_session_id"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+{sessionID}
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="idempotence_token"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+{sessionID}_0
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="source_type"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+feed_inline
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="locale"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+en_US
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="client_country_code"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+US
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="fb_api_req_friendly_name"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+upload-photo
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="fb_api_caller_class"
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+com.facebook.photos.upload.service.UploadServiceQueue
+--f7wb4i1DGz0AFgbIESoIXozYcljQo1N6m2v6Q3Fk
+Content-Disposition: form-data; name="source"; filename="{filename}.tmp"
+Content-Type: image/jpeg
+Content-Transfer-Encoding: binary
+
